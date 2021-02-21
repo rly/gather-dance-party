@@ -1,0 +1,6 @@
+{
+  "name": "gather-dance-party",
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}
