@@ -378,7 +378,7 @@ const writeMap = async (videoData) => {
       properties: {
         video: video.videoUrl
       },
-    }
+    });
 
     // video private space
     for (let x = topleft.x; x < topleft.x + 5; x++) {
